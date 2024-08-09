@@ -6,7 +6,7 @@
 #
 aiofiles==24.1.0
     # via deepgram-sdk
-aiohttp==3.9.5
+aiohttp==3.10.2
     # via
     #   deepgram-sdk
     #   langchain
