@@ -199,7 +199,7 @@ langchain==0.2.11
     # via
     #   langchain-community
     #   pipecat-ai (pyproject.toml)
-langchain-community==0.2.10
+langchain-community==0.3.0
     # via pipecat-ai (pyproject.toml)
 langchain-core==0.2.23
     # via
